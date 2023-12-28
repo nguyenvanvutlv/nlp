@@ -1,10 +1,7 @@
 Django==4.1.0
-djangorestframework==3.14.0
-mysqlclient==2.2.1
-tensorflow>=2.15.0
-keras>=2.15.0
 numpy>=1.26.2
 pandas>=2.1.4
+torch>=2.1.2+cu121
 pyvi>=0.1.1
-gensim>=4.3.2
 nltk>=3.8.1
+transformers>=4.36.2
