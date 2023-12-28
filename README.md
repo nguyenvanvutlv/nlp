@@ -28,6 +28,13 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```
 
 
+- **Get checkpoint**:
+
+Go to [checkpoint](https://nogdev-my.sharepoint.com/:u:/g/personal/vunguyen_nogdev_onmicrosoft_com/Ea4c4-YglN9FtDqt6vRyEKIBI0MayWLvZAWsf9FBKaQ02g?e=4SWjLi)
+
+Extract and put it in folder `static/`
+
+
 - **RUN web**
 
 ```bash
